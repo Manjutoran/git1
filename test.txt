@@ -1,6 +1,6 @@
 class abc
 {
  public static void main (string[] args){
- sys(124)
+ sys(124,567)
 }
 }
