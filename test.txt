@@ -2,6 +2,9 @@ class abc
 {
  public static void main (string[] args){
  sys(124,567)
+<<<<<<< HEAD
 kmjnh
+=======
+>>>>>>> 75bf6ed0396365a0a39e89da1c931ebead365a36
 }
 }
